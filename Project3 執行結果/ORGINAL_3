@@ -1,0 +1,21 @@
+PageRank is finished after 11 steps.
+Vertex 1:	 0.17543250
+Vertex 2:	 0.32456750
+Vertex 3:	 0.32456750
+Vertex 4:	 0.17543250
+HITS is finished after 11 steps.
+Vertex 1 	 auth: 0.37174445 	 hub: 0.37174445
+Vertex 2 	 auth: 0.60150317 	 hub: 0.60150317
+Vertex 3 	 auth: 0.60150317 	 hub: 0.60150317
+Vertex 4 	 auth: 0.37174445 	 hub: 0.37174445
+SimRank is finished after 12 steps.
+Vertex 1	1:	1.00000000
+Vertex 2	2:	1.00000000
+Vertex 3	3:	1.00000000
+Vertex 4	4:	1.00000000
+Vertex 1	2:	0.00000000
+Vertex 2	3:	0.00000000
+Vertex 3	4:	0.00000000
+Vertex 1	3:	0.66665548
+Vertex 2	4:	0.66665548
+Vertex 1	4:	0.00000000
